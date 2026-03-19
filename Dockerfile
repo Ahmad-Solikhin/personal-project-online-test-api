@@ -7,7 +7,7 @@ COPY pom.xml .
 
 RUN mvn clean -DskipTests package
 
-FROM openjdk:17-jdk-alpine
+FROM openjdk:17-ea-alpine
 LABEL authors="ahmadsgr39"
 
 #RUN apk add openjdk17-jdk
