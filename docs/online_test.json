@@ -41,7 +41,7 @@
                     "name": "John Doe",
                     "email": "johndoe@gmail.com",
                     "password": "secret123",
-                    "retype_password": "secret123"
+                    "retyped_password": "secret123"
                   }
                 }
               }
